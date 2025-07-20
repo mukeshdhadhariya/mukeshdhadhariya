@@ -67,7 +67,7 @@ I'm a passionate 2nd-year Computer Science student at **Indian Institute of Info
 ## 📫 How to Reach Me
 
 - Email: mukeshdhadhariya1@gmail.com
-- LinkedIn: [Aditya Kumar](https://www.linkedin.com/in/mukesh-dhadhariya-5a4b99290/)
+- LinkedIn: [Mukesh dhadhariya](https://www.linkedin.com/in/mukesh-dhadhariya-5a4b99290/)
 
 ---
 
