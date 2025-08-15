@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate 2nd-year Computer Science student at **Indian Institute of Information Technology, Bhagalpur** with expertise in full-stack development and competitive programming. I love building innovative solutions and exploring new technologies.
+I'm a passionate 3nd-year Computer Science student at **Indian Institute of Information Technology, Bhagalpur** with expertise in full-stack development and competitive programming. I love building innovative solutions and exploring new technologies.
 
 - 🔭 I'm currently working on **MERN stack projects**
 - 🌱 Learning **Advanced System Design & Cloud Computing**
