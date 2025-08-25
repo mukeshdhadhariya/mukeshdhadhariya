@@ -25,9 +25,13 @@
 <a href="https://leetcode.com/u/mukeshhdhadhariya/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="40" width="40"/>
 </a>&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/mukeshdhadhariya" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/5C2D91/codechef.png" alt="codechef" height="40" width="40"/>
-  </a>
+  
+<a href="[https://www.codechef.com/users/mukeshdhadhariya](https://www.codechef.com/users/its_hunter)" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/000000/codechef.png" 
+       alt="codechef" height="40" width="40" 
+       style="filter: invert(31%) sepia(89%) saturate(7500%) hue-rotate(265deg) brightness(95%) contrast(105%);" />
+</a>
+
 </p>
 
 ---
@@ -38,6 +42,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" 
+     alt="typescript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 
   <!-- Web -->
@@ -51,6 +57,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
+  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
 
@@ -78,7 +85,9 @@
 ## 🏆 GitHub Trophies  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MukeshDhadhariya&theme=onedark&no-frame=true&row=1" />
-
+  <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MukeshDhadhariya&theme=onedark&no-frame=true&row=1" />
+</p>
 </p>
 
 ---
