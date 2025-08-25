@@ -1,25 +1,30 @@
 <h1 align="center">Hi 👋, I'm Mukesh Dhadhariya</h1>
 <h3 align="center">Full Stack Developer | Competitive Programmer | Tech Explorer 🚀</h3>
 
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MukeshDhadhariya&label=Profile%20views&color=0e75b6&style=flat" alt="MukeshDhadhariya" />
 </p>
 
----
+## 🚀 About Me  
+
+- 🎓 3rd-year **Computer Science student** at *IIIT Bhagalpur* passionate about tech innovation.  
+- 🔭 Building **MERN stack applications** with real-world impact and AI integration.  
+- 🌱 Exploring **System Design, Cloud Computing, and DevOps** for scalable solutions.  
+- 👯 Open to collaborating on **innovative open-source projects**.  
+- 💬 Strong in **JavaScript, MERN stack, and DSA with problem-solving expertise**.  
+- ⚡ *A missing semicolon may break my code—but it powers my resilience to debug and grow!* 💻✨  
 
 ## 🌐 Connect with me  
 <p align="center">
   <a href="mailto:mukeshdhadhariya1@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="40" width="40"/>
   </a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/mukeshdhadhariya" target="_blank">
+  <a href="[https://linkedin.com/in/mukeshdhadhariya](https://www.linkedin.com/in/mukesh-dhadhariya-5a4b99290/)" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40"/>
   </a>&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/mukeshdhadhariya" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="40" width="40"/>
-  </a>&nbsp;&nbsp;
+<a href="https://leetcode.com/u/mukeshhdhadhariya/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="40" width="40"/>
+</a>&nbsp;&nbsp;
   <a href="https://www.codechef.com/users/mukeshdhadhariya" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/5C2D91/codechef.png" alt="codechef" height="40" width="40"/>
   </a>
@@ -72,7 +77,8 @@
 
 ## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mukeshdhadhariya&theme=onedark&no-frame=true&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MukeshDhadhariya&theme=onedark&no-frame=true&row=1" />
+
 </p>
 
 ---
