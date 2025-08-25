@@ -16,22 +16,27 @@
 
 ## 🌐 Connect with me  
 <p align="center">
+  <!-- Gmail -->
   <a href="mailto:mukeshdhadhariya1@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="40" width="40"/>
   </a>&nbsp;&nbsp;
-  <a href="[https://linkedin.com/in/mukeshdhadhariya](https://www.linkedin.com/in/mukesh-dhadhariya-5a4b99290/)" target="_blank">
+
+  <!-- LinkedIn (fixed URL) -->
+  <a href="https://www.linkedin.com/in/mukesh-dhadhariya-5a4b99290/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40"/>
   </a>&nbsp;&nbsp;
-<a href="https://leetcode.com/u/mukeshhdhadhariya/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="40" width="40"/>
-</a>&nbsp;&nbsp;
-  
-<a href="[https://www.codechef.com/users/mukeshdhadhariya](https://www.codechef.com/users/its_hunter)" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/000000/codechef.png" 
-       alt="codechef" height="40" width="40" 
-       style="filter: invert(31%) sepia(89%) saturate(7500%) hue-rotate(265deg) brightness(95%) contrast(105%);" />
-</a>
 
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/mukeshhdhadhariya/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="40" width="40"/>
+  </a>&nbsp;&nbsp;
+
+  <!-- CodeChef (fixed URL + purple color) -->
+  <a href="https://www.codechef.com/users/its_hunter" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/codechef.png" 
+         alt="codechef" height="40" width="40" 
+         style="filter: invert(31%) sepia(89%) saturate(7500%) hue-rotate(265deg) brightness(95%) contrast(105%);" />
+  </a>
 </p>
 
 ---
@@ -85,9 +90,6 @@
 ## 🏆 GitHub Trophies  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MukeshDhadhariya&theme=onedark&no-frame=true&row=1" />
-  <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MukeshDhadhariya&theme=onedark&no-frame=true&row=1" />
-</p>
 </p>
 
 ---
