@@ -1,76 +1,93 @@
-# Hi there, I'm Mukesh dhadhariya 👋
+<h1 align="center">Hi 👋, I'm Mukesh Dhadhariya</h1>
+<h3 align="center">Full Stack Developer | Competitive Programmer | Tech Explorer 🚀</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukesh-dhadhariya-5a4b99290/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/mukeshhdhadhariya/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/yourusername)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukeshdhadhariya1@gmail.com)
+---
 
-## 🚀 About Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MukeshDhadhariya&label=Profile%20views&color=0e75b6&style=flat" alt="MukeshDhadhariya" />
+</p>
 
-I'm a passionate 3nd-year Computer Science student at **Indian Institute of Information Technology, Bhagalpur** with expertise in full-stack development and competitive programming. I love building innovative solutions and exploring new technologies.
+---
 
-- 🔭 I'm currently working on **MERN stack projects**
-- 🌱 Learning **Advanced System Design & Cloud Computing**
-- 👯 Looking to collaborate on **open-source projects**
-- 💬 Ask me about **JavaScript,MERN, or DSA**
-- ⚡ Fun fact: I treat semicolons like gold—miss one, and my whole world crashes! 😅💻
+## 🌐 Connect with me  
+<p align="center">
+  <a href="mailto:mukeshdhadhariya1@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="40" width="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/mukeshdhadhariya" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/mukeshdhadhariya" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="40" width="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/mukeshdhadhariya" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/5C2D91/codechef.png" alt="codechef" height="40" width="40"/>
+  </a>
+</p>
 
-## 🛠️ Skills
+---
 
-### Programming Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## 💻 Languages & Tools  
+<p align="center">
+  <!-- Core -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 
+  <!-- Web -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  <img src="https://ui.shadcn.com/favicon.ico" alt="shadcn" width="40" height="40"/>
 
-### Frontend Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+  <!-- Frameworks -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
 
-### Backend Development
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  <!-- Database & Infra -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+</p>
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+---
 
-### Tools & Technologies
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-Expert-orange?style=for-the-badge)
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MukeshDhadhariya&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MukeshDhadhariya&theme=tokyonight" alt="streak"/>
+</p>
 
-## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukeshDhadhariya&layout=compact&theme=tokyonight" alt="top-langs"/>
+</p>
 
-![Mukesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukeshdhadhariya&show_icons=true&theme=radical)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshdhadhariya&layout=compact&theme=radical)](https://github.com/mukeshdhadhariya/github-readme-stats)
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mukeshdhadhariya&theme=onedark&no-frame=true&row=1"/>
+</p>
 
-## 🏆 GitHub Trophies
+---
 
-![trophy](https://github-profile-trophy.vercel.app/?username=mukeshdhadhariya&theme=onedark&no-frame=true&row=1)
+## 🎯 Currently Focusing On  
+- Building **scalable web applications**  
+- Enhancing **problem-solving skills** on **LeetCode**  
+- Contributing to **open-source projects**  
+- Learning **DevOps & Cloud technologies**  
 
-## 🔥 Streak Stats
+---
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=mukeshdhadhariya&theme=radical)
-
-## 🎯 Currently Focusing On
-
-- Building scalable web applications
-- Enhancing my problem-solving skills on platforms like LeetCode
-- Contributing to open-source projects
-- Learning DevOps and Cloud technologies
-
-## 📫 How to Reach Me
-
-- Email: mukeshdhadhariya1@gmail.com
-- LinkedIn: [Mukesh dhadhariya](https://www.linkedin.com/in/mukesh-dhadhariya-5a4b99290/)
+## 📫 How to Reach Me  
+- 📧 Email: **mukeshdhadhariya1@gmail.com**  
+- 💼 LinkedIn: [Mukesh Dhadhariya](https://www.linkedin.com/in/mukesh-dhadhariya-5a4b99290/)  
 
 ---
 
