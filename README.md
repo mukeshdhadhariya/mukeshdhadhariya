@@ -98,6 +98,10 @@
 
 ---
 
+[![An image of @mukeshdhadhariya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mukeshdhadhariya)](https://holopin.io/@mukeshdhadhariya)
+
+
+
 ## 🎯 Currently Focusing On  
 - Building **scalable web applications**  
 - Enhancing **problem-solving skills** on **LeetCode**  
