@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mukesh Dhadhariya</h1>
-<h3 align="center">Full Stack Developer | Competitive Programmer | Tech Explorer 🚀</h3>
+<h1 align="center">THE MUKESH DHADHARIYA</h1>
+<h3 align="center">Full Stack Developer | Competitive Programmer | System Design Enthusias 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MukeshDhadhariya&label=Profile%20views&color=0e75b6&style=flat" alt="MukeshDhadhariya" />
@@ -7,12 +7,8 @@
 
 ## 🚀 About Me  
 
-- 🎓 3rd-year **Computer Science student** at *IIIT Bhagalpur* passionate about tech innovation.  
-- 🔭 Building **MERN stack applications** with real-world impact and AI integration.  
-- 🌱 Exploring **System Design, Cloud Computing, and DevOps** for scalable solutions.  
+- 🎓 3rd-year **Computer Science student** at *IIIT Bhagalpur* passionate about tech innovation.    
 - 👯 Open to collaborating on **innovative open-source projects**.  
-- 💬 Strong in **JavaScript, MERN stack, and DSA with problem-solving expertise**.  
-- ⚡ *A missing semicolon may break my code—but it powers my resilience to debug and grow!* 💻✨  
 
 ## 🌐 Connect with me  
 <p align="center">
@@ -104,9 +100,7 @@
 
 ## 🎯 Currently Focusing On  
 - Building **scalable web applications**  
-- Enhancing **problem-solving skills** on **LeetCode**  
-- Contributing to **open-source projects**  
-- Learning **DevOps & Cloud technologies**  
+- Enhancing **problem-solving skills** on **LeetCode** 
 
 ---
 
