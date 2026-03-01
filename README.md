@@ -101,13 +101,3 @@
 ## 🎯 Currently Focusing On  
 - Building **scalable web applications**  
 - Enhancing **problem-solving skills** on **LeetCode** 
-
----
-
-## 📫 How to Reach Me  
-- 📧 Email: **mukeshdhadhariya1@gmail.com**  
-- 💼 LinkedIn: [Mukesh Dhadhariya](https://www.linkedin.com/in/mukesh-dhadhariya-5a4b99290/)  
-
----
-
-⭐️ From [Mukesh Dhadhariya](https://github.com/mukeshdhadhariya)
