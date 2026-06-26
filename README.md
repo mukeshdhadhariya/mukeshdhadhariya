@@ -125,29 +125,12 @@ public:
 
 ---
 
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MukeshDhadhariya&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🎯 2026 Goals
-
-- 🚀 Build production-grade distributed systems
-- ☁️ Master AWS & Azure cloud infrastructure
-- ⚡ Learn Kubernetes and service mesh
-- 🧠 Solve 1000+ DSA problems
-- 🌍 Contribute to impactful open-source projects
-- 🏆 Reach Expert on Codeforces
+[![An image of @mukeshdhadhariya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mukeshdhadhariya)](https://holopin.io/@mukeshdhadhariya)
 
 ---
 
 <div align="center">
 
-### ⭐ *Building systems that scale, not just applications that work.*
+### *Building systems that scale, not just applications that work.*
 
 </div>
