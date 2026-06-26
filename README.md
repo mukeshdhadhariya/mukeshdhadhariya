@@ -19,31 +19,6 @@
 
 ---
 
-# 🚀 About Me
-
-```cpp
-class MukeshDhadhariya {
-
-public:
-
-    string role = "Software Engineer";
-
-    vector<string> interests = {
-        "Backend Engineering",
-        "Distributed Systems",
-        "System Design",
-        "Competitive Programming",
-        "Artificial Intelligence"
-    };
-
-    string currentGoal =
-        "Building production-scale applications.";
-
-};
-```
-
----
-
 # 🚧 Currently Building
 
 ### ⚔️ CP Duel
