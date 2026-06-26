@@ -1,103 +1,153 @@
-<h1 align="center">THE MUKESH DHADHARIYA</h1>
-<h3 align="center">Software Engineer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MukeshDhadhariya&label=Profile%20views&color=0e75b6&style=flat" alt="MukeshDhadhariya" />
+# 👋 Hi, I'm Mukesh Dhadhariya
+
+### Software Engineer • Backend • Distributed Systems • Competitive Programmer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=750&lines=Building+Scalable+Backend+Systems;Real-Time+Applications+with+WebSockets;Distributed+Systems+%7C+Redis+%7C+Kafka;AI+Applications+%7C+System+Design;Always+Learning+Something+New"/>
+
+<p>
+<a href="mailto:mukeshdhadhariya1@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mukesh-dhadhariya-5a4b99290/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://leetcode.com/u/mukeshhdhadhariya/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://www.codechef.com/users/its_hunter"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge"/></a>
 </p>
 
-## 🚀 About Me  
+<img src="https://komarev.com/ghpvc/?username=MukeshDhadhariya&label=Profile+Views&color=0e75b6&style=flat" />
 
-- 🎓 3rd-year **Computer Science student** at *IIIT Bhagalpur* passionate about tech innovation.    
-- 👯 Open to collaborating on **innovative open-source projects**.  
+</div>
 
-## 🌐 Connect with me  
+---
+
+# 🚀 About Me
+
+```cpp
+class MukeshDhadhariya {
+
+public:
+
+    string role = "Software Engineer";
+
+    vector<string> interests = {
+        "Backend Engineering",
+        "Distributed Systems",
+        "System Design",
+        "Competitive Programming",
+        "Artificial Intelligence"
+    };
+
+    string currentGoal =
+        "Building production-scale applications.";
+
+};
+```
+
+---
+
+# 🚧 Currently Building
+
+### ⚔️ CP Duel
+> Real-time competitive programming platform with 1v1 duels, live contests, scalable architecture, Redis, PostgreSQL, Docker & AI.
+
+🔗 **https://cpduel.dev**
+
+<br>
+
+### 🛡️ HackElite CTF
+> Capture The Flag platform for cybersecurity enthusiasts with modern challenges and real-time scoreboards.
+
+🔗 **https://ctf.hackelite.app/**
+
+---
+
+# ⚡ Tech Stack
+
+### Languages
+
+![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
+![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+
+### Frameworks
+
+![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
+![](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs)
+![](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs)
+![](https://img.shields.io/badge/Express-black?style=flat-square&logo=express)
+![](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django)
+![](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react)
+
+### Databases & Infrastructure
+
+![](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql)
+![](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
+![](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis)
+![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
+![](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx)
+
+### Cloud & DevOps
+
+![](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws)
+![](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure)
+![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
+![](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions)
+![](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux)
+
+---
+
+# 📈 GitHub Stats
+
 <p align="center">
-  <!-- Gmail -->
-  <a href="mailto:mukeshdhadhariya1@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="40" width="40"/>
-  </a>&nbsp;&nbsp;
 
-  <!-- LinkedIn (fixed URL) -->
-  <a href="https://www.linkedin.com/in/mukesh-dhadhariya-5a4b99290/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40"/>
-  </a>&nbsp;&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MukeshDhadhariya&show_icons=true&theme=tokyonight"/>
 
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/u/mukeshhdhadhariya/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="40" width="40"/>
-  </a>&nbsp;&nbsp;
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MukeshDhadhariya&theme=tokyonight"/>
 
-  <!-- CodeChef (fixed URL + purple color) -->
-  <a href="https://www.codechef.com/users/its_hunter" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/codechef.png" 
-         alt="codechef" height="40" width="40" 
-         style="filter: invert(31%) sepia(89%) saturate(7500%) hue-rotate(265deg) brightness(95%) contrast(105%);" />
-  </a>
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukeshDhadhariya&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 💻 Languages & Tools  
+# 🏆 GitHub Trophies
+
 <p align="center">
-  <!-- Core -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" 
-     alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 
-  <!-- Web -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://ui.shadcn.com/favicon.ico" alt="shadcn" width="40" height="40"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MukeshDhadhariya&theme=algolia&no-frame=true&row=1"/>
 
-  <!-- Frameworks -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/expo/expo/main/.github/resources/banner.png" alt="Expo Logo" width="40" height="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
-
-  <!-- Database & Infra -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </p>
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MukeshDhadhariya&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MukeshDhadhariya&theme=tokyonight" alt="streak"/>
-</p>
+# 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukeshDhadhariya&layout=compact&theme=tokyonight" alt="top-langs"/>
-</p>
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MukeshDhadhariya&theme=tokyo-night"/>
 
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MukeshDhadhariya&theme=onedark&no-frame=true&row=1" />
 </p>
 
 ---
 
-[![An image of @mukeshdhadhariya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mukeshdhadhariya)](https://holopin.io/@mukeshdhadhariya)
+# 🎯 2026 Goals
 
+- 🚀 Build production-grade distributed systems
+- ☁️ Master AWS & Azure cloud infrastructure
+- ⚡ Learn Kubernetes and service mesh
+- 🧠 Solve 1000+ DSA problems
+- 🌍 Contribute to impactful open-source projects
+- 🏆 Reach Expert on Codeforces
 
+---
 
-## 🎯 Currently Focusing On  
-- Building **scalable web applications**  
-- Enhancing **problem-solving skills** on **LeetCode** 
+<div align="center">
+
+### ⭐ *Building systems that scale, not just applications that work.*
+
+</div>
