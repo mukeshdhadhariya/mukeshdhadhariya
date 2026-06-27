@@ -31,7 +31,7 @@
 ### 🛡️ HackElite CTF
 > Capture The Flag platform for cybersecurity enthusiasts with modern challenges and real-time scoreboards.
 
-🔗 **https://ctf.hackelite.app/**
+🔗 **https://ctf.hackelite.app**
 
 ---
 
